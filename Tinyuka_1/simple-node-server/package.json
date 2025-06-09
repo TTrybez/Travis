@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js web server that serves an HTML file and handles 404 errors.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
